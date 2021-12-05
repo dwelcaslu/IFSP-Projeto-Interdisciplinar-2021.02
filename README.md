@@ -1,2 +1,5 @@
-# IFSP-Projeto-Interdisciplinar-2021.02
-Projeto Interdisciplinar IFSP - Especialização em Ciência de dados 2021
+# IFSP - Projeto Interdisciplinar - 2021.02
+
+A seguir, apresentamos o notebook final, jupyter notebook e os slides para apresentação.
+Jupyter notebook: IFSP-Projeto-Interdisciplinar-2021.02/notebooks/pi_abalone_sagemaker_pyspark.ipynb
+Slides: IFSP-Projeto-Interdisciplinar-2021.02/reports/Apresentação - Projeto Interdisciplinar.pptx
