@@ -2,4 +2,4 @@
 
 A seguir, apresentamos o jupyter notebook final e os slides para apresentação. <br/>
 Jupyter notebook: IFSP-Projeto-Interdisciplinar-2021.02/notebooks/pi_abalone_sagemaker_pyspark.ipynb <br/>
-Slides: IFSP-Projeto-Interdisciplinar-2021.02/reports/Apresentação - Projeto Interdisciplinar.pdf <br/>
+Slides: https://github.com/dwelcaslu/IFSP-Projeto-Interdisciplinar-2021.02/blob/main/reports/Apresenta%C3%A7%C3%A3o%20-%20Projeto%20Interdisciplinar.pdf <br/>
